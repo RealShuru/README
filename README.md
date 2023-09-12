@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shuru" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuru" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shuru" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shuru_if" height="30" width="40" /></a>
-<img align="center" src="https://dcbadge.vercel.app/api/shield/560235821110657024?theme=discord" alt="shuru"/>
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<560235821110657024>)
 </p>
 
 
@@ -23,4 +23,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RealShuru&show_icons=true&locale=en&range=all_time" alt="RealShuru" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RealShuru&" alt="RealShuru" /></p>
