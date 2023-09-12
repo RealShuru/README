@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shuru</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=exzork&label=Profile%20views&color=0e75b6&style=flat" alt="exzork" /> </p>
-
 - 👨‍💻 I'm currenty work at a Discord Bot to Create GMod Server
 
 
@@ -9,7 +7,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/shuru" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuru" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shuru" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shuru_if" height="30" width="40" /></a>
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<560235821110657024>)
 </p>
 
 
